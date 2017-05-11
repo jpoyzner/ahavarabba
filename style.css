@@ -1,0 +1,24 @@
+.title {
+	color: darkblue;
+}
+
+/* .by-line {
+	color: gray;
+} */
+
+.table {
+	background: url("scroll.png") no-repeat scroll 0 0 / 100% 100% rgba(0, 0, 0, 0);
+    height: 101%;
+    margin: -1% 0 0 -2%;
+    overflow: hidden;
+    position: fixed;
+}
+
+.scroll {
+	height: 68.8%;
+	/*height: 50%;*/
+    margin: 8.8% auto;
+    /*margin: 15% auto;*/
+    overflow: scroll;
+    width: 50%;
+}
